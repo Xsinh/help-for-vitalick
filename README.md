@@ -1,2 +1,2 @@
 # help-for-vitalick
-Aнимация картинки
+Picture animation
